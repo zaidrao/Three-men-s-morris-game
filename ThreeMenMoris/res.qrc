@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>nutralbead.png</file>
+        <file>player1bead.png</file>
+        <file>player2bead.png</file>
+        <file>bg.jpg</file>
+        <file>play.png</file>
+        <file>quit.png</file>
+        <file>replay.png</file>
+        <file>p1label.png</file>
+        <file>p2label.png</file>
+        <file>bg2.jpg</file>
+        <file>p1turn.png</file>
+        <file>p2turn.png</file>
+    </qresource>
+</RCC>
